@@ -5,7 +5,9 @@
 First, please build an image
 
 ```
-docker build . -t=<docker_image_name>
+docker build . -t <docker_image_name>
+```
+had issues with build .-t <docker_image_name>
 ```
 Then please launch a container with necessary system configuration
 
