@@ -10,7 +10,7 @@ PyTorch implementation of classifier built on NVIDIA FourCastNet model for droug
 First, please build an image
 
 ```
-docker build . -t=<docker_image_name>
+docker build . -t fourcastnet
 ```
 Then please launch a container with necessary system configuration
 
